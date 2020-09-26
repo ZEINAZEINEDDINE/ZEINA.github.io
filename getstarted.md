@@ -179,18 +179,22 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 }
 <style>
      
+     
 <style>
        
  .gs-section-02 h3 
     {background-color: hsl(120, 100%, 50%);}  /* green */ 
 
 .gs-section-02 p {
-     font-size: 20px;
+     font-size: 10px;
   }
   
 .gs-section-02 p {
        font-style: italic;
   }
+  
+  .gs-section-02 p { 
+     color: orange }
 </style>
 
 <style>
